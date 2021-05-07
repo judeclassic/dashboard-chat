@@ -63,7 +63,7 @@
     "perfect-scrollbar": "1.1.0",
     "rxjs": "^5.5.4",
     "tslib": "^1.9.0",
-    "ua-parser-js": "^0.7.20",
+    "ua-parser-js": "^0.7.24",
     "uuid": "^3.4.0",
     "web-animations-js": "^2.3.1",
     "zone.js": "0.8.4"
